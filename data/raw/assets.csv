@@ -1,0 +1,115 @@
+asset_id,asset_name,asset_type,install_date,expected_life_years,replacement_value_aud,criticality,owner_department,status
+AST-0001,Road Segment - Ripley - 01,Road Segment,1987-02-14,43,554278.88,Medium,Works and Infrastructure,Active
+AST-0002,Road Segment - Yamanto - 02,Road Segment,1988-01-21,42,1145836.54,Medium,Works and Infrastructure,Active
+AST-0003,Road Segment - Rosewood - 03,Road Segment,2020-02-13,52,1137734.56,Medium,Works and Infrastructure,Active
+AST-0004,Road Segment - Springfield - 04,Road Segment,2018-06-13,53,925357.05,High,Works and Infrastructure,Active
+AST-0005,Road Segment - Ipswich Central - 05,Road Segment,2019-01-02,52,348272.48,High,Works and Infrastructure,Active
+AST-0006,Road Segment - Ipswich Central - 06,Road Segment,2001-08-28,37,1264782.67,High,Works and Infrastructure,Active
+AST-0007,Road Segment - Redbank Plains - 07,Road Segment,2017-08-27,48,908215.69,Medium,Works and Infrastructure,Active
+AST-0008,Road Segment - Rosewood - 08,Road Segment,2006-08-25,46,621813.77,Medium,Works and Infrastructure,Active
+AST-0009,Road Segment - Springfield - 09,Road Segment,1994-08-10,48,1024720.97,High,Works and Infrastructure,Active
+AST-0010,Road Segment - Springfield - 10,Road Segment,2014-02-11,42,587549.14,High,Works and Infrastructure,Active
+AST-0011,Road Segment - Ipswich Central - 11,Road Segment,2014-10-31,48,431983.43,High,Works and Infrastructure,Active
+AST-0012,Road Segment - Yamanto - 12,Road Segment,1993-07-12,54,960117.19,Medium,Works and Infrastructure,Active
+AST-0013,Road Segment - Ripley - 13,Road Segment,2008-01-07,49,1168084.81,Medium,Works and Infrastructure,Active
+AST-0014,Road Segment - Ipswich Central - 14,Road Segment,2008-01-22,37,926263.70,High,Works and Infrastructure,Active
+AST-0015,Road Segment - Ripley - 15,Road Segment,2015-08-29,41,756155.64,Medium,Works and Infrastructure,Active
+AST-0016,Road Segment - Ripley - 16,Road Segment,1998-06-24,40,1396578.93,Medium,Works and Infrastructure,Active
+AST-0017,Road Segment - Redbank Plains - 17,Road Segment,2012-04-30,53,1398770.61,Medium,Works and Infrastructure,Active
+AST-0018,Road Segment - Rosewood - 18,Road Segment,2016-04-01,52,705610.53,Medium,Works and Infrastructure,Active
+AST-0019,Road Segment - Ipswich Central - 19,Road Segment,2006-09-08,55,564454.62,High,Works and Infrastructure,Active
+AST-0020,Road Segment - Ipswich Central - 20,Road Segment,1990-05-11,55,1003901.48,High,Works and Infrastructure,Active
+AST-0021,Road Segment - Redbank Plains - 21,Road Segment,2004-04-25,38,436550.25,Medium,Works and Infrastructure,Active
+AST-0022,Road Segment - Brassall - 22,Road Segment,1987-12-12,51,617825.97,Medium,Works and Infrastructure,Active
+AST-0023,Road Segment - Redbank Plains - 23,Road Segment,1994-02-20,39,914279.63,Medium,Works and Infrastructure,Active
+AST-0024,Road Segment - Ipswich Central - 24,Road Segment,2000-07-27,40,1177480.81,High,Works and Infrastructure,Active
+AST-0025,Road Segment - Rosewood - 25,Road Segment,2015-03-29,41,640109.97,Medium,Works and Infrastructure,Active
+AST-0026,Road Segment - Brassall - 26,Road Segment,1992-12-13,37,611287.15,Medium,Works and Infrastructure,Active
+AST-0027,Road Segment - Rosewood - 27,Road Segment,2008-06-03,54,880380.24,Medium,Works and Infrastructure,Active
+AST-0028,Road Segment - Yamanto - 28,Road Segment,2006-07-13,36,608655.68,Medium,Works and Infrastructure,Active
+AST-0029,Footpath - Yamanto - 01,Footpath,2016-06-23,30,404420.50,Medium,Works and Infrastructure,Active
+AST-0030,Footpath - Yamanto - 02,Footpath,2010-09-03,34,384139.46,Medium,Works and Infrastructure,Active
+AST-0031,Footpath - Brassall - 03,Footpath,2009-04-11,34,369158.12,Medium,Works and Infrastructure,Active
+AST-0032,Footpath - Springfield - 04,Footpath,1992-04-27,28,106699.75,Medium,Works and Infrastructure,Active
+AST-0033,Footpath - Redbank Plains - 05,Footpath,2004-10-14,29,226276.84,Medium,Works and Infrastructure,Active
+AST-0034,Footpath - Ipswich Central - 06,Footpath,2004-07-16,35,326728.16,Medium,Works and Infrastructure,Active
+AST-0035,Footpath - Yamanto - 07,Footpath,2021-06-21,34,277367.80,Medium,Works and Infrastructure,Active
+AST-0036,Footpath - Ipswich Central - 08,Footpath,1992-11-14,39,336752.50,Medium,Works and Infrastructure,Active
+AST-0037,Footpath - Ipswich Central - 09,Footpath,2007-03-06,26,184739.93,Medium,Works and Infrastructure,Active
+AST-0038,Footpath - Ripley - 10,Footpath,2021-04-01,35,319781.77,Medium,Works and Infrastructure,Active
+AST-0039,Footpath - Ripley - 11,Footpath,2017-07-27,31,220888.58,Medium,Works and Infrastructure,Active
+AST-0040,Footpath - Yamanto - 12,Footpath,2007-11-27,30,392576.80,Medium,Works and Infrastructure,Active
+AST-0041,Footpath - Goodna - 13,Footpath,2009-08-13,33,359020.75,Medium,Works and Infrastructure,Active
+AST-0042,Footpath - Rosewood - 14,Footpath,2003-06-16,35,216669.25,Medium,Works and Infrastructure,Active
+AST-0043,Footpath - Ipswich Central - 15,Footpath,1997-04-16,32,327896.82,Medium,Works and Infrastructure,Active
+AST-0044,Footpath - Brassall - 16,Footpath,1992-05-10,36,192923.81,Medium,Works and Infrastructure,Active
+AST-0045,Footpath - Redbank Plains - 17,Footpath,1992-03-08,37,229602.80,Medium,Works and Infrastructure,Active
+AST-0046,Footpath - Yamanto - 18,Footpath,2016-11-29,36,374146.07,Medium,Works and Infrastructure,Active
+AST-0047,Footpath - Ripley - 19,Footpath,2002-10-30,39,114920.37,Medium,Works and Infrastructure,Active
+AST-0048,Footpath - Redbank Plains - 20,Footpath,1989-09-12,36,309287.91,Medium,Works and Infrastructure,Active
+AST-0049,Footpath - Springfield - 21,Footpath,2019-07-19,37,187528.88,Medium,Works and Infrastructure,Active
+AST-0050,Footpath - Ipswich Central - 22,Footpath,2017-05-05,38,330886.26,Medium,Works and Infrastructure,Active
+AST-0051,Drainage Line - Ripley - 01,Drainage Line,1991-03-05,47,728177.17,Medium,Infrastructure Services,Active
+AST-0052,Drainage Line - Redbank Plains - 02,Drainage Line,2019-07-20,42,609770.26,Medium,Infrastructure Services,Active
+AST-0053,Drainage Line - Yamanto - 03,Drainage Line,2001-12-16,52,559960.16,Medium,Infrastructure Services,Active
+AST-0054,Drainage Line - Brassall - 04,Drainage Line,2009-08-02,47,646758.25,Medium,Infrastructure Services,Active
+AST-0055,Drainage Line - Ripley - 05,Drainage Line,2022-03-01,63,696243.66,Medium,Infrastructure Services,Active
+AST-0056,Drainage Line - Redbank Plains - 06,Drainage Line,2015-09-14,52,613652.33,Medium,Infrastructure Services,Active
+AST-0057,Drainage Line - Ipswich Central - 07,Drainage Line,2019-06-08,42,356116.98,High,Infrastructure Services,Active
+AST-0058,Drainage Line - Brassall - 08,Drainage Line,1990-03-06,50,619582.60,Medium,Infrastructure Services,Active
+AST-0059,Drainage Line - Redbank Plains - 09,Drainage Line,1997-10-25,47,799438.28,Medium,Infrastructure Services,Active
+AST-0060,Drainage Line - Brassall - 10,Drainage Line,2004-04-07,63,538500.64,Medium,Infrastructure Services,Active
+AST-0061,Drainage Line - Ripley - 11,Drainage Line,2016-05-26,46,379121.85,Medium,Infrastructure Services,Active
+AST-0062,Drainage Line - Yamanto - 12,Drainage Line,2012-02-26,62,916117.76,Medium,Infrastructure Services,Active
+AST-0063,Drainage Line - Ipswich Central - 13,Drainage Line,1994-12-26,50,482801.97,High,Infrastructure Services,Active
+AST-0064,Drainage Line - Ripley - 14,Drainage Line,1986-11-20,41,690414.81,Medium,Infrastructure Services,Active
+AST-0065,Drainage Line - Ripley - 15,Drainage Line,1994-02-17,59,461015.58,Medium,Infrastructure Services,Active
+AST-0066,Drainage Line - Yamanto - 16,Drainage Line,2006-02-06,42,813876.03,Medium,Infrastructure Services,Active
+AST-0067,Drainage Line - Ipswich Central - 17,Drainage Line,2004-08-04,41,865703.63,High,Infrastructure Services,Active
+AST-0068,Drainage Line - Ipswich Central - 18,Drainage Line,2006-04-21,43,635920.54,High,Infrastructure Services,Active
+AST-0069,Drainage Line - Redbank Plains - 19,Drainage Line,1999-03-03,46,883228.12,Medium,Infrastructure Services,Active
+AST-0070,Drainage Line - Springfield - 20,Drainage Line,1992-02-13,63,469334.50,High,Infrastructure Services,Active
+AST-0071,Bridge - Yamanto - 01,Bridge,2007-07-13,89,4428434.22,Critical,Structures and Assets,Active
+AST-0072,Bridge - Springfield - 02,Bridge,1988-10-26,76,3912159.26,Critical,Structures and Assets,Active
+AST-0073,Bridge - Redbank Plains - 03,Bridge,1996-12-06,62,2269618.78,Critical,Structures and Assets,Active
+AST-0074,Bridge - Rosewood - 04,Bridge,2004-05-01,76,2685342.89,Critical,Structures and Assets,Active
+AST-0075,Bridge - Ripley - 05,Bridge,2020-09-13,71,5753980.94,Critical,Structures and Assets,Active
+AST-0076,Bridge - Rosewood - 06,Bridge,2022-06-23,96,3100962.14,Critical,Structures and Assets,Active
+AST-0077,Bridge - Ipswich Central - 07,Bridge,2010-04-16,62,7166472.05,Critical,Structures and Assets,Active
+AST-0078,Bridge - Springfield - 08,Bridge,2014-04-16,93,5031081.60,Critical,Structures and Assets,Active
+AST-0079,Bridge - Redbank Plains - 09,Bridge,2014-04-26,99,5287135.50,Critical,Structures and Assets,Active
+AST-0080,Bridge - Brassall - 10,Bridge,1990-08-30,76,5603094.77,Critical,Structures and Assets,Active
+AST-0081,Bridge - Redbank Plains - 11,Bridge,1986-05-15,74,2013339.49,Critical,Structures and Assets,Active
+AST-0082,Bridge - Ipswich Central - 12,Bridge,1987-11-20,97,6727631.63,Critical,Structures and Assets,Active
+AST-0083,Park Facility - Redbank Plains - 01,Park Facility,2013-10-27,22,113949.23,Medium,Parks and Recreation,Active
+AST-0084,Park Facility - Yamanto - 02,Park Facility,2011-11-12,26,190015.90,Medium,Parks and Recreation,Active
+AST-0085,Park Facility - Brassall - 03,Park Facility,1992-12-09,18,53113.30,Medium,Parks and Recreation,Active
+AST-0086,Park Facility - Redbank Plains - 04,Park Facility,2002-05-21,26,85955.29,Medium,Parks and Recreation,Active
+AST-0087,Park Facility - Ipswich Central - 05,Park Facility,2016-09-11,26,121406.30,Medium,Parks and Recreation,Active
+AST-0088,Park Facility - Redbank Plains - 06,Park Facility,2020-07-17,19,186089.83,Medium,Parks and Recreation,Active
+AST-0089,Park Facility - Goodna - 07,Park Facility,2004-04-30,15,243968.54,Medium,Parks and Recreation,Active
+AST-0090,Park Facility - Yamanto - 08,Park Facility,2017-03-24,19,129509.34,Medium,Parks and Recreation,Active
+AST-0091,Park Facility - Ipswich Central - 09,Park Facility,2020-05-02,23,47624.67,Medium,Parks and Recreation,Active
+AST-0092,Park Facility - Yamanto - 10,Park Facility,2002-02-27,16,65022.15,Medium,Parks and Recreation,Active
+AST-0093,Park Facility - Rosewood - 11,Park Facility,2011-08-12,27,85286.47,Medium,Parks and Recreation,Active
+AST-0094,Park Facility - Yamanto - 12,Park Facility,2009-06-07,18,45883.62,Medium,Parks and Recreation,Active
+AST-0095,Park Facility - Redbank Plains - 13,Park Facility,2014-11-28,29,146167.36,Medium,Parks and Recreation,Active
+AST-0096,Park Facility - Brassall - 14,Park Facility,2011-10-04,30,69579.42,Medium,Parks and Recreation,Active
+AST-0097,Park Facility - Yamanto - 15,Park Facility,2003-09-08,25,198031.34,Medium,Parks and Recreation,Active
+AST-0098,Park Facility - Goodna - 16,Park Facility,2019-04-05,18,174821.63,Medium,Parks and Recreation,Active
+AST-0099,Park Facility - Redbank Plains - 17,Park Facility,2009-10-14,16,65933.33,Medium,Parks and Recreation,Active
+AST-0100,Park Facility - Brassall - 18,Park Facility,2014-08-27,29,243379.51,Medium,Parks and Recreation,Active
+AST-0101,Community Building - Springfield - 01,Community Building,2020-08-01,50,3121162.27,Critical,Buildings and Facilities,Active
+AST-0102,Community Building - Springfield - 02,Community Building,2022-06-01,49,5441227.16,Critical,Buildings and Facilities,Active
+AST-0103,Community Building - Ripley - 03,Community Building,2001-01-18,37,1423541.08,Critical,Buildings and Facilities,Active
+AST-0104,Community Building - Ipswich Central - 04,Community Building,1992-09-10,56,4857963.05,Critical,Buildings and Facilities,Active
+AST-0105,Community Building - Yamanto - 05,Community Building,1995-11-12,44,3717270.92,Critical,Buildings and Facilities,Active
+AST-0106,Community Building - Ipswich Central - 06,Community Building,2001-01-22,58,5278155.51,Critical,Buildings and Facilities,Active
+AST-0107,Community Building - Ripley - 07,Community Building,1999-02-25,48,5455479.38,Critical,Buildings and Facilities,Active
+AST-0108,Community Building - Redbank Plains - 08,Community Building,2002-08-01,40,1824487.97,Critical,Buildings and Facilities,Active
+AST-0109,Community Building - Ipswich Central - 09,Community Building,2018-08-26,49,4372256.46,Critical,Buildings and Facilities,Active
+AST-0110,Community Building - Redbank Plains - 10,Community Building,2008-01-25,57,3912732.77,Critical,Buildings and Facilities,Active
+AST-0111,Community Building - Redbank Plains - 11,Community Building,2016-09-22,60,2280093.47,Critical,Buildings and Facilities,Active
+AST-0112,Community Building - Ripley - 12,Community Building,2020-04-02,45,1667984.01,Critical,Buildings and Facilities,Active
+AST-0113,Community Building - Rosewood - 13,Community Building,2021-01-09,58,3761543.04,Critical,Buildings and Facilities,Active
+AST-0114,Community Building - Springfield - 14,Community Building,2019-01-09,44,4113471.15,Critical,Buildings and Facilities,Active

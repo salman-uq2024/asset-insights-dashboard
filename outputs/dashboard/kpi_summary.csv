@@ -1,0 +1,10 @@
+metric,value,note
+Total assets,114,Current active portfolio
+Total replacement value (AUD),150147559.38,Portfolio replacement value
+Average latest condition score,2.76,"5 = excellent, 1 = critical"
+Poor or critical assets,46,Assets requiring intervention
+Poor or critical share (%),40.35,Risk exposure in current portfolio
+Total maintenance spend (AUD),1675887.39,Completed work order spend
+Reactive maintenance share (%),34.45,Share of maintenance spend that is unplanned
+Assets past 80% of expected life,18,Age-based renewal pressure
+Planned capital pipeline (AUD),21917829.52,Forward renewal estimate

@@ -1,0 +1,7 @@
+asset_type,asset_count,avg_condition_score,poor_critical_assets,maintenance_spend_aud,reactive_cost_aud,capital_pipeline_aud
+Community Building,14,3.24,4,248930.0,81559.0,9467218.91
+Bridge,12,3.18,2,302764.33,43257.8,5196705.54
+Road Segment,28,2.76,12,339244.56,117866.18,4003029.44
+Drainage Line,20,2.79,10,306181.29,115172.9,2136084.44
+Footpath,22,2.53,11,256087.06,111494.72,865949.6
+Park Facility,18,2.32,7,222680.15,108065.74,248841.59

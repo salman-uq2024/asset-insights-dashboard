@@ -1,0 +1,115 @@
+location_id,asset_id,suburb,ward,precinct,latitude,longitude,flood_risk_zone
+LOC-0001,AST-0001,Ripley,South,Development Front,-27.743610,152.832664,Low
+LOC-0002,AST-0002,Yamanto,West,Industrial Fringe,-27.647209,152.752593,Moderate
+LOC-0003,AST-0003,Rosewood,Rural,Western Rural,-27.634190,152.590793,Low
+LOC-0004,AST-0004,Springfield,South,Growth Corridor,-27.655873,152.898854,Low
+LOC-0005,AST-0005,Ipswich Central,Central,Urban Core,-27.630195,152.757164,Moderate
+LOC-0006,AST-0006,Ipswich Central,Central,Urban Core,-27.626321,152.770015,Moderate
+LOC-0007,AST-0007,Redbank Plains,East,Growth Corridor,-27.630378,152.866777,Low
+LOC-0008,AST-0008,Rosewood,Rural,Western Rural,-27.643107,152.571852,Low
+LOC-0009,AST-0009,Springfield,South,Growth Corridor,-27.645967,152.890465,Low
+LOC-0010,AST-0010,Springfield,South,Growth Corridor,-27.662614,152.893982,Low
+LOC-0011,AST-0011,Ipswich Central,Central,Urban Core,-27.630190,152.753648,Moderate
+LOC-0012,AST-0012,Yamanto,West,Industrial Fringe,-27.673877,152.750895,Moderate
+LOC-0013,AST-0013,Ripley,South,Development Front,-27.739323,152.830904,Low
+LOC-0014,AST-0014,Ipswich Central,Central,Urban Core,-27.626538,152.769201,Moderate
+LOC-0015,AST-0015,Ripley,South,Development Front,-27.723985,152.838703,Low
+LOC-0016,AST-0016,Ripley,South,Development Front,-27.717987,152.840886,Low
+LOC-0017,AST-0017,Redbank Plains,East,Growth Corridor,-27.659051,152.861289,Low
+LOC-0018,AST-0018,Rosewood,Rural,Western Rural,-27.625426,152.598338,Low
+LOC-0019,AST-0019,Ipswich Central,Central,Urban Core,-27.631662,152.768967,Moderate
+LOC-0020,AST-0020,Ipswich Central,Central,Urban Core,-27.616130,152.760865,Moderate
+LOC-0021,AST-0021,Redbank Plains,East,Growth Corridor,-27.653443,152.859634,Moderate
+LOC-0022,AST-0022,Brassall,West,Established Suburbs,-27.614779,152.765649,Moderate
+LOC-0023,AST-0023,Redbank Plains,East,Growth Corridor,-27.659293,152.864694,Low
+LOC-0024,AST-0024,Ipswich Central,Central,Urban Core,-27.602047,152.773112,Moderate
+LOC-0025,AST-0025,Rosewood,Rural,Western Rural,-27.645869,152.573227,Low
+LOC-0026,AST-0026,Brassall,West,Established Suburbs,-27.597623,152.749132,Moderate
+LOC-0027,AST-0027,Rosewood,Rural,Western Rural,-27.630598,152.596868,Low
+LOC-0028,AST-0028,Yamanto,West,Industrial Fringe,-27.670819,152.722909,Low
+LOC-0029,AST-0029,Yamanto,West,Industrial Fringe,-27.656127,152.749527,Low
+LOC-0030,AST-0030,Yamanto,West,Industrial Fringe,-27.652375,152.754784,Moderate
+LOC-0031,AST-0031,Brassall,West,Established Suburbs,-27.593038,152.749530,Low
+LOC-0032,AST-0032,Springfield,South,Growth Corridor,-27.641790,152.899253,Low
+LOC-0033,AST-0033,Redbank Plains,East,Growth Corridor,-27.646334,152.863913,Low
+LOC-0034,AST-0034,Ipswich Central,Central,Urban Core,-27.604252,152.740187,Moderate
+LOC-0035,AST-0035,Yamanto,West,Industrial Fringe,-27.671682,152.752221,Moderate
+LOC-0036,AST-0036,Ipswich Central,Central,Urban Core,-27.617030,152.759772,Moderate
+LOC-0037,AST-0037,Ipswich Central,Central,Urban Core,-27.627125,152.763095,Moderate
+LOC-0038,AST-0038,Ripley,South,Development Front,-27.736504,152.812620,Low
+LOC-0039,AST-0039,Ripley,South,Development Front,-27.735722,152.816190,Low
+LOC-0040,AST-0040,Yamanto,West,Industrial Fringe,-27.654895,152.723514,Low
+LOC-0041,AST-0041,Goodna,East,Riverside,-27.614512,152.893430,Moderate
+LOC-0042,AST-0042,Rosewood,Rural,Western Rural,-27.622842,152.595815,Low
+LOC-0043,AST-0043,Ipswich Central,Central,Urban Core,-27.609800,152.756483,Moderate
+LOC-0044,AST-0044,Brassall,West,Established Suburbs,-27.608453,152.747085,Moderate
+LOC-0045,AST-0045,Redbank Plains,East,Growth Corridor,-27.645054,152.874990,Low
+LOC-0046,AST-0046,Yamanto,West,Industrial Fringe,-27.662586,152.743581,Low
+LOC-0047,AST-0047,Ripley,South,Development Front,-27.719620,152.820503,Low
+LOC-0048,AST-0048,Redbank Plains,East,Growth Corridor,-27.662536,152.864422,Moderate
+LOC-0049,AST-0049,Springfield,South,Growth Corridor,-27.640575,152.918568,Low
+LOC-0050,AST-0050,Ipswich Central,Central,Urban Core,-27.629915,152.743104,High
+LOC-0051,AST-0051,Ripley,South,Development Front,-27.716387,152.806442,Low
+LOC-0052,AST-0052,Redbank Plains,East,Growth Corridor,-27.641460,152.856097,Moderate
+LOC-0053,AST-0053,Yamanto,West,Industrial Fringe,-27.668634,152.757064,Moderate
+LOC-0054,AST-0054,Brassall,West,Established Suburbs,-27.587286,152.765319,Moderate
+LOC-0055,AST-0055,Ripley,South,Development Front,-27.746285,152.831220,Moderate
+LOC-0056,AST-0056,Redbank Plains,East,Growth Corridor,-27.652786,152.877031,Moderate
+LOC-0057,AST-0057,Ipswich Central,Central,Urban Core,-27.625956,152.771872,High
+LOC-0058,AST-0058,Brassall,West,Established Suburbs,-27.598521,152.730816,Moderate
+LOC-0059,AST-0059,Redbank Plains,East,Growth Corridor,-27.658959,152.866973,Moderate
+LOC-0060,AST-0060,Brassall,West,Established Suburbs,-27.602439,152.731723,Moderate
+LOC-0061,AST-0061,Ripley,South,Development Front,-27.746578,152.834091,Low
+LOC-0062,AST-0062,Yamanto,West,Industrial Fringe,-27.665646,152.747081,Moderate
+LOC-0063,AST-0063,Ipswich Central,Central,Urban Core,-27.599362,152.756473,High
+LOC-0064,AST-0064,Ripley,South,Development Front,-27.733611,152.825702,Low
+LOC-0065,AST-0065,Ripley,South,Development Front,-27.746263,152.830641,Low
+LOC-0066,AST-0066,Yamanto,West,Industrial Fringe,-27.673727,152.739305,Moderate
+LOC-0067,AST-0067,Ipswich Central,Central,Urban Core,-27.610803,152.767797,High
+LOC-0068,AST-0068,Ipswich Central,Central,Urban Core,-27.611772,152.748075,High
+LOC-0069,AST-0069,Redbank Plains,East,Growth Corridor,-27.647305,152.862108,Moderate
+LOC-0070,AST-0070,Springfield,South,Growth Corridor,-27.653254,152.918765,Moderate
+LOC-0071,AST-0071,Yamanto,West,Industrial Fringe,-27.660469,152.725318,Moderate
+LOC-0072,AST-0072,Springfield,South,Growth Corridor,-27.665456,152.916878,Low
+LOC-0073,AST-0073,Redbank Plains,East,Growth Corridor,-27.659550,152.860355,Moderate
+LOC-0074,AST-0074,Rosewood,Rural,Western Rural,-27.622881,152.591808,Moderate
+LOC-0075,AST-0075,Ripley,South,Development Front,-27.740039,152.829648,Low
+LOC-0076,AST-0076,Rosewood,Rural,Western Rural,-27.637725,152.588411,Moderate
+LOC-0077,AST-0077,Ipswich Central,Central,Urban Core,-27.620645,152.772332,High
+LOC-0078,AST-0078,Springfield,South,Growth Corridor,-27.655382,152.893235,Low
+LOC-0079,AST-0079,Redbank Plains,East,Growth Corridor,-27.661832,152.847732,Moderate
+LOC-0080,AST-0080,Brassall,West,Established Suburbs,-27.582363,152.743734,Moderate
+LOC-0081,AST-0081,Redbank Plains,East,Growth Corridor,-27.656581,152.857029,Low
+LOC-0082,AST-0082,Ipswich Central,Central,Urban Core,-27.610536,152.753370,High
+LOC-0083,AST-0083,Redbank Plains,East,Growth Corridor,-27.629582,152.871386,Low
+LOC-0084,AST-0084,Yamanto,West,Industrial Fringe,-27.662625,152.725148,Low
+LOC-0085,AST-0085,Brassall,West,Established Suburbs,-27.610917,152.742915,Low
+LOC-0086,AST-0086,Redbank Plains,East,Growth Corridor,-27.640805,152.869609,Low
+LOC-0087,AST-0087,Ipswich Central,Central,Urban Core,-27.596144,152.775229,Moderate
+LOC-0088,AST-0088,Redbank Plains,East,Growth Corridor,-27.658710,152.844341,Low
+LOC-0089,AST-0089,Goodna,East,Riverside,-27.620788,152.904168,High
+LOC-0090,AST-0090,Yamanto,West,Industrial Fringe,-27.677103,152.737733,Low
+LOC-0091,AST-0091,Ipswich Central,Central,Urban Core,-27.614049,152.769068,Moderate
+LOC-0092,AST-0092,Yamanto,West,Industrial Fringe,-27.664732,152.735042,Low
+LOC-0093,AST-0093,Rosewood,Rural,Western Rural,-27.623136,152.582098,Low
+LOC-0094,AST-0094,Yamanto,West,Industrial Fringe,-27.653266,152.742794,Moderate
+LOC-0095,AST-0095,Redbank Plains,East,Growth Corridor,-27.659226,152.874145,Moderate
+LOC-0096,AST-0096,Brassall,West,Established Suburbs,-27.604186,152.733216,Moderate
+LOC-0097,AST-0097,Yamanto,West,Industrial Fringe,-27.662333,152.729004,Low
+LOC-0098,AST-0098,Goodna,East,Riverside,-27.602197,152.903730,High
+LOC-0099,AST-0099,Redbank Plains,East,Growth Corridor,-27.651662,152.872293,Low
+LOC-0100,AST-0100,Brassall,West,Established Suburbs,-27.600529,152.762222,Low
+LOC-0101,AST-0101,Springfield,South,Growth Corridor,-27.646700,152.913442,Low
+LOC-0102,AST-0102,Springfield,South,Growth Corridor,-27.660686,152.896358,Low
+LOC-0103,AST-0103,Ripley,South,Development Front,-27.732354,152.831067,Low
+LOC-0104,AST-0104,Ipswich Central,Central,Urban Core,-27.614089,152.745751,High
+LOC-0105,AST-0105,Yamanto,West,Industrial Fringe,-27.655032,152.743415,Moderate
+LOC-0106,AST-0106,Ipswich Central,Central,Urban Core,-27.599240,152.753104,Moderate
+LOC-0107,AST-0107,Ripley,South,Development Front,-27.742547,152.818481,Low
+LOC-0108,AST-0108,Redbank Plains,East,Growth Corridor,-27.640440,152.877109,Moderate
+LOC-0109,AST-0109,Ipswich Central,Central,Urban Core,-27.616070,152.745896,Moderate
+LOC-0110,AST-0110,Redbank Plains,East,Growth Corridor,-27.636870,152.859650,Low
+LOC-0111,AST-0111,Redbank Plains,East,Growth Corridor,-27.639620,152.845350,Moderate
+LOC-0112,AST-0112,Ripley,South,Development Front,-27.720499,152.810269,Low
+LOC-0113,AST-0113,Rosewood,Rural,Western Rural,-27.648840,152.600505,Low
+LOC-0114,AST-0114,Springfield,South,Growth Corridor,-27.664769,152.898862,Low

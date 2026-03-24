@@ -1,0 +1,26 @@
+asset_id,asset_name,asset_type,suburb,criticality,flood_risk_zone,latest_condition_score,latest_condition_state,latest_risk_rating,age_years,life_consumed_pct,reactive_cost_24m_aud,capital_pipeline_aud,priority_score,recommendation
+AST-0092,Park Facility - Yamanto - 10,Park Facility,Yamanto,Medium,Low,1.0,Critical,Critical,24.1,150.4,13304.36,28970.22,149.65,Immediate renewal or major intervention
+AST-0094,Park Facility - Yamanto - 12,Park Facility,Yamanto,Medium,Moderate,1.0,Critical,Critical,16.8,93.3,8887.13,11701.0,146.78,Immediate renewal or major intervention
+AST-0085,Park Facility - Brassall - 03,Park Facility,Brassall,Medium,Low,1.0,Critical,Critical,33.3,184.9,7020.72,13836.59,139.51,Immediate renewal or major intervention
+AST-0089,Park Facility - Goodna - 07,Park Facility,Goodna,Medium,High,1.0,Critical,Critical,21.9,146.0,7104.16,63612.79,136.08,Immediate renewal or major intervention
+AST-0044,Footpath - Brassall - 16,Footpath,Brassall,Medium,Moderate,1.0,Critical,Critical,33.9,94.1,14601.72,77921.34,130.36,Immediate renewal or major intervention
+AST-0048,Footpath - Redbank Plains - 20,Footpath,Redbank Plains,Medium,Moderate,1.0,Critical,Critical,36.5,101.5,7527.6,125691.42,129.41,Immediate renewal or major intervention
+AST-0032,Footpath - Springfield - 04,Footpath,Springfield,Medium,Low,1.0,Critical,Critical,33.9,121.1,5658.73,30802.34,128.42,Immediate renewal or major intervention
+AST-0099,Park Facility - Redbank Plains - 17,Park Facility,Redbank Plains,Medium,Low,1.0,Critical,Critical,16.4,102.8,3349.59,25588.99,128.11,Immediate renewal or major intervention
+AST-0086,Park Facility - Redbank Plains - 04,Park Facility,Redbank Plains,Medium,Low,1.4,Critical,High,23.8,91.7,12003.49,41944.52,124.41,Immediate renewal or major intervention
+AST-0043,Footpath - Ipswich Central - 15,Footpath,Ipswich Central,Medium,Moderate,1.0,Critical,Critical,28.9,90.4,9672.63,85838.46,123.43,Immediate renewal or major intervention
+AST-0097,Park Facility - Yamanto - 15,Park Facility,Yamanto,Medium,Low,1.3,Critical,High,22.5,90.2,21762.94,63187.48,122.46,Immediate renewal or major intervention
+AST-0002,Road Segment - Yamanto - 02,Road Segment,Yamanto,Medium,Moderate,1.0,Critical,Critical,38.2,90.9,11425.91,553996.77,120.76,Immediate renewal or major intervention
+AST-0026,Road Segment - Brassall - 26,Road Segment,Brassall,Medium,Moderate,1.2,Critical,Critical,33.3,89.9,12449.64,148304.73,117.29,Immediate renewal or major intervention
+AST-0064,Drainage Line - Ripley - 14,Drainage Line,Ripley,Medium,Low,1.1,Critical,High,39.3,96.0,18874.62,351293.63,116.43,Immediate renewal or major intervention
+AST-0063,Drainage Line - Ipswich Central - 13,Drainage Line,Ipswich Central,High,High,1.6,Poor,Critical,31.2,62.5,2032.01,221272.57,113.0,Immediate renewal or major intervention
+AST-0105,Community Building - Yamanto - 05,Community Building,Yamanto,Critical,Moderate,1.7,Poor,Critical,30.4,69.0,10792.55,1871902.64,112.23,Immediate renewal or major intervention
+AST-0036,Footpath - Ipswich Central - 08,Footpath,Ipswich Central,Medium,Moderate,1.4,Critical,High,33.4,85.5,6399.73,187385.86,111.75,Immediate renewal or major intervention
+AST-0001,Road Segment - Ripley - 01,Road Segment,Ripley,Medium,Low,1.2,Critical,High,39.1,90.9,3743.06,237146.43,110.51,Immediate renewal or major intervention
+AST-0104,Community Building - Ipswich Central - 04,Community Building,Ipswich Central,Critical,High,2.0,Poor,Critical,33.5,59.9,12985.07,1800169.6,109.86,Prioritise in next capital works program
+AST-0023,Road Segment - Redbank Plains - 23,Road Segment,Redbank Plains,Medium,Low,1.3,Critical,High,32.1,82.3,9135.37,239049.76,107.49,Immediate renewal or major intervention
+AST-0108,Community Building - Redbank Plains - 08,Community Building,Redbank Plains,Critical,Moderate,1.9,Poor,High,23.6,59.1,5987.67,975642.43,106.25,Immediate renewal or major intervention
+AST-0022,Road Segment - Brassall - 22,Road Segment,Brassall,Medium,Moderate,1.6,Poor,High,38.3,75.1,11917.7,340887.65,105.69,Immediate renewal or major intervention
+AST-0045,Footpath - Redbank Plains - 17,Footpath,Redbank Plains,Medium,Low,1.6,Poor,High,34.0,92.0,7670.99,67860.52,104.78,Immediate renewal or major intervention
+AST-0067,Drainage Line - Ipswich Central - 17,Drainage Line,Ipswich Central,High,High,2.0,Poor,High,21.6,52.8,18079.42,425314.84,104.52,Prioritise in next capital works program
+AST-0024,Road Segment - Ipswich Central - 24,Road Segment,Ipswich Central,High,Moderate,1.9,Poor,High,25.7,64.1,3848.6,449684.79,99.87,Immediate renewal or major intervention
