@@ -2,6 +2,13 @@
 
 Practical portfolio project for an Asset Data Analyst style role, focused on local government infrastructure planning. The project simulates a council asset portfolio and produces reusable SQL analysis, Python preparation scripts, and dashboard-ready outputs for backlog, condition, maintenance, and renewal decisions.
 
+## Recruiter Snapshot
+
+- Demonstrates SQL-based data cleaning, joins, KPI analysis, and trend analysis.
+- Produces dashboard-ready outputs for Power BI, Tableau, or Excel.
+- Framed around realistic local-government and infrastructure analytics work.
+- Shows both technical data preparation and business-facing insight generation.
+
 ## Project Scope
 
 This project models a council-owned asset portfolio across:
@@ -199,6 +206,10 @@ The `outputs/dashboard/` folder includes:
 - `renewal_priority_register.csv`
 
 These can be loaded directly into Power BI, Tableau, or Excel as a lightweight reporting layer.
+
+## Dashboard Visuals
+
+Dashboard screenshots will be added after the reporting layer is visualised in Power BI or Excel. The current repository already includes dashboard-ready CSV outputs in `outputs/dashboard/`.
 
 ## Supporting Documentation
 
