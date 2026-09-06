@@ -2,6 +2,10 @@
 
 Practical portfolio project for an Asset Data Analyst style role, focused on local government infrastructure planning. The project simulates a council asset portfolio and produces reusable SQL analysis, Python preparation scripts, and dashboard-ready outputs for backlog, condition, maintenance, and renewal decisions.
 
+**Synthetic demonstration data only.** The figures and place-based findings below describe generated records, not a real council asset register. This repository currently produces reporting CSVs; it does not contain a completed Power BI dashboard.
+
+**Review path:** [SQL queries](sql) → [Python/SQLite pipeline](scripts/prepare_dashboard_outputs.py) → [six outputs](outputs/dashboard) → [reconciliation tests](tests/test_analytics.py).
+
 [Case study: architecture, trade-offs, measured validation, and limitations](docs/case-study.md)
 
 ## Recruiter Snapshot
@@ -37,7 +41,7 @@ Generated sample data includes:
 - 467 maintenance work orders
 - 510 cost transactions
 
-## Why This Project Works For A Portfolio
+## Analytical workflow
 
 It reflects the kind of work an asset analyst might do in a council or infrastructure planning team:
 
@@ -225,3 +229,13 @@ Dashboard screenshots will be added after the reporting layer is visualised in P
 - Geographic risk and flood exposure
 - Maintenance trend and reactive share
 - Renewal priority register
+
+## Data quality and reconciliation
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+Five standard-library tests passed locally on 5 September 2026. They check primary/foreign-key consistency, source-to-KPI totals, monthly work-order counts, join cardinality and exact agreement between current SQL results and committed CSV reports. CI also runs these checks.
+
+The reporting snapshot uses a fixed `2026-03-24` age reference and a fixed `2024-01-01` recent-spend cutoff. The `24m` field name is approximate relative to that snapshot, not a rolling window from today's date. Renewal scores use illustrative weights, not a calibrated asset-management standard.

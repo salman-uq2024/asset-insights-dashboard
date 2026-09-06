@@ -45,6 +45,8 @@ jobs:
               if len(rows) < 2:
                   raise SystemExit(f"Output has no data rows: {name}")
           PY
+      - name: Reconcile analytics against source records
+        run: python -m unittest discover -s tests -v
       - name: Upload dashboard-ready outputs
         uses: actions/upload-artifact@v4
         with:
